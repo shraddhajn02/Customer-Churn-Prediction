@@ -2,11 +2,11 @@
 
 Customer Churn Prediction using Gradient Boosting
 
-📌 Overview
+**Overview**
 
 This project focuses on predicting customer churn for an online retail store using machine learning techniques. We implemented a Gradient Boosting Model (GBM) to analyze customer behavior and identify factors contributing to churn. The goal is to enable businesses to take proactive retention measures based on insights derived from the model.
 
-🛠 Steps in the Project
+*Steps in the Project*
 
 1️⃣ Data Understanding <br>
 The dataset consists of 33,859 customer records and 37 independent variables related to User Activity, Shopping Behavior, and Retail Category metrics. <br>
@@ -49,11 +49,13 @@ Business Strategies to Reduce Churn:<br>
 Implement reactivation campaigns targeting inactive users.<br>
 Personalize the user experience based on visits and shopping behavior.<br>
 Introduce incentives to boost customer engagement. <br>
-📈 Results & Submission<br>
+
+**Results & Submission<br>**
 
 Predictions were saved in submission_final.csv, containing customer IDs and their churn probabilities.
 The model’s insights can help businesses design effective retention strategies. <br>
-💡 Skills Used<br>
+
+**Skills Used<br>**
 
 Machine Learning: Supervised learning, predictive modeling, feature engineering.
 Data Preprocessing: Outlier handling, missing value treatment, data transformation.
