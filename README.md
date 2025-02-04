@@ -1,8 +1,5 @@
 # Customer-Churn-Prediction
 
-
-Here’s a detailed draft for your README.md file for your Customer Churn Prediction repository on GitHub:
-
 Customer Churn Prediction using Gradient Boosting
 
 📌 Overview
